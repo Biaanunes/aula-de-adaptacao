@@ -1,0 +1,16 @@
+n1 = "numero 1"
+n1 = 0
+n1 = 7.1
+
+n1 = input("digite a aporação")
+n1 = int(input("digite um numero"))
+n1 = float(input("digite um numero"))
+
+if n1 = 1:
+if n1 == 1:
+if n1 === 1:
+elif n1 == 1:
+else:
+while n1 == 1:#somente so for verdadeiro
+break ##sai do loop while
+
